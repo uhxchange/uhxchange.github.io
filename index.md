@@ -17,4 +17,4 @@ This web application illustrates various technologies useful to ICS software eng
 
 This is a potential landing homepage where users can search up any potential item they're searching for, as well as showing a recent purchase feed and website information.
 
-![](https://media.discordapp.net/attachments/828143559336263700/828860510660591707/unknown.png)
+![](https://cdn.discordapp.com/attachments/828143559336263700/828866541692518410/unknown.png)
