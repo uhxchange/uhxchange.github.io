@@ -15,4 +15,4 @@ UHXchange is an web application that provides users to buy and sell goods in the
 
 This is a potential landing homepage where users can search up any potential item they're searching for, as well as showing a recent purchase feed and website information.
 
-![] (https://media.discordapp.net/attachments/828143559336263700/828860510660591707/unknown.png)
+![](https://media.discordapp.net/attachments/828143559336263700/828860510660591707/unknown.png)
