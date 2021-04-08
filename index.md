@@ -19,6 +19,11 @@ This is a potential landing homepage where users can search up any potential ite
 
 ![](https://cdn.discordapp.com/attachments/828143559336263700/828866541692518410/unknown.png)
 
+## Profile Page
+
+<img width="800" alt="Screen Shot 2021-04-08 at 8 56 12 AM" src="https://user-images.githubusercontent.com/77813646/114081839-c2e84000-9848-11eb-8c8c-785c53d842f6.png">
+
+
 ## Product Page
 
 Potential product page where users can see the product being put up for sell, trade, or both.
