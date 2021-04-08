@@ -36,7 +36,7 @@ Search page allows the users to filter the products by their types.
 ## Team
 
 UHXchange is designed, implemented, and maintained by
-[Jiyeon Chun](https://chunjy.github.io/), [Chin Ting Liao](https://chintingliao.github.io/), [Hansen Cabanero](https://hanseca.github.io/)
+[Jiyeon Chun](https://chunjy.github.io/), [Chin Ting Liao](https://chintingliao.github.io/), [Hansen Cabanero](https://hanseca.github.io/), [Tam Nguyen](https://tamtn2.github.io/)
 
 
 Link to the source code:
