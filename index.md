@@ -31,5 +31,5 @@ Link to the source code:
 ## Team
 
 UHXchange is designed, implemented, and maintained by
-[Jiyeon Chun](https://chunjy.github.io/),
+[Jiyeon Chun](https://chunjy.github.io/), [Chin Ting Liao](https://chintingliao.github.io/), 
 
