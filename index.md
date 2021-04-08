@@ -24,3 +24,6 @@ This is a potential landing homepage where users can search up any potential ite
 Potential product page where users can see the product being put up for sell, trade, or both.
 
 ![](https://cdn.discordapp.com/attachments/828143559336263700/828881262499987477/unknown.png)
+
+Link to the source code:
+[https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
