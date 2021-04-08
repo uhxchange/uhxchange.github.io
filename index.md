@@ -25,8 +25,6 @@ Potential product page where users can see the product being put up for sell, tr
 
 ![](https://cdn.discordapp.com/attachments/828143559336263700/828881262499987477/unknown.png)
 
-Link to the source code:
-[https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
 
 ## Search Page
 
@@ -40,3 +38,6 @@ Search page allows the users to filter the products by their types.
 UHXchange is designed, implemented, and maintained by
 [Jiyeon Chun](https://chunjy.github.io/), [Chin Ting Liao](https://chintingliao.github.io/), 
 
+
+Link to the source code:
+[https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
