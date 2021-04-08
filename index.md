@@ -4,7 +4,7 @@
 
 ## Overview
 
-UHXchange is an web application that provides users to buy and sell goods in the UH Manoa community. Users are able to search up items, "purchase" items, or exchange. Ultimately, it'll allow two users to interact with each other and decide either they want to exchange goods or purchase with currency. We'll allow users the option to either message the "seller" directly and decide from their. On the product page, it will show the user, the product the user is putting up to sell or trade, and a field that indicate if the seller wants to only sell, only trade, or open to both. The choice is theirs.
+UHXchange is a web application that provides users to buy and sell goods in the UH Manoa community. Users are able to search up items, "purchase" items, or exchange. Ultimately, it'll allow two users to interact with each other and decide either they want to exchange goods or purchase with currency. We'll allow users the option to either message the "seller" directly and decide from their. On the product page, it will show the user, the product the user is putting up to sell or trade, and a field that indicate if the seller wants to only sell, only trade, or open to both. The choice is theirs.
 
 This web application illustrates various technologies useful to ICS software engineering students, including:
 
@@ -27,6 +27,11 @@ Potential product page where users can see the product being put up for sell, tr
 
 Link to the source code:
 [https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
+
+## Search Page
+
+Search page allows the users to filter the products by their types.
+
 
 ## Team
 
