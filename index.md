@@ -32,7 +32,7 @@ Link to the source code:
 
 Search page allows the users to filter the products by their types.
 
-<img width="1000" alt="filter" src="https://user-images.githubusercontent.com/77813646/114013243-09b34700-9803-11eb-93d8-8fd6ea24f9c1.png">
+<img width="800" alt="filter" src="https://user-images.githubusercontent.com/77813646/114013243-09b34700-9803-11eb-93d8-8fd6ea24f9c1.png">
 
 
 ## Team
