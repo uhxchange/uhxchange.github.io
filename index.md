@@ -27,3 +27,9 @@ Potential product page where users can see the product being put up for sell, tr
 
 Link to the source code:
 [https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
+
+## Team
+
+UHXchange is designed, implemented, and maintained by
+[Jiyeon Chun](https://chunjy.github.io/),
+
