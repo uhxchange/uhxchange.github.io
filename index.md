@@ -44,5 +44,10 @@ UHXchange is designed, implemented, and maintained by
 [Jiyeon Chun](https://chunjy.github.io/), [Chin Ting Liao](https://chintingliao.github.io/), [Hansen Cabanero](https://hanseca.github.io/), [Tam Nguyen](https://tamtn2.github.io/)
 
 
+## Deployment
+
+[UHXchange](https://uhxmanoa.xyz/#/) is running on Digital Occean.
+
+
 Link to the source code:
 [https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
