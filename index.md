@@ -3,9 +3,10 @@
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Deployment History](#deployment-history)
+* [Team](#team)
 
 
-# About UHXchange
+## About UHXchange
 
 UHXchange is a web application that provides users to buy and sell items in the UH Manoa community. Users are able to search up items, purchase items, or exchange. Ultimately, it will allow two users to interact with each other and decide either they want to exchange goods or purchase with currency. We will allow users the option to either message the "seller" directly and decide from their. On the product page, it will show the user, the product the user is putting up to sell or trade, and a field that indicate if the seller wants to only sell, only trade, or open to both. The choice is theirs.
 
@@ -17,15 +18,15 @@ This web application illustrates various technologies useful to ICS software eng
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 
-# User Guide
+## User Guide
 
-## Landing page
+### Landing page
 
 This is a potential landing homepage where users can search up any potential item they're searching for, as well as showing a recent purchase feed and website information.
 
 <img width="800" alt="Screen Shot 2021-04-15 at 10 10 49 AM" src="https://user-images.githubusercontent.com/77813646/114947071-298cd100-9de8-11eb-98a2-f87902d14740.png">
 
-## Sign in and sign up
+### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign up" to go to the following page and register as a new user:
 
@@ -35,21 +36,21 @@ Click on the "Login" button in the upper right corner of the navbar, then select
 
 <img width="800" alt="Screen Shot 2021-04-15 at 10 10 58 AM" src="https://user-images.githubusercontent.com/77813646/114947193-622caa80-9de8-11eb-9bb7-253aa4020471.png">
 
-## List contacts page
+### List contacts page
 
 The List contacts page shows all the current registered profiles and their associated email addresses:
 
 <img width="800" alt="Screen Shot 2021-04-15 at 10 11 59 AM" src="https://user-images.githubusercontent.com/77813646/114947529-07478300-9de9-11eb-8aee-6d1149e2fec4.png">
 
 
-## Add product Page
+### Add product Page
 
 Once you are logged in, you can define new products with the Add product page:
 
 <img width="800" alt="Screen Shot 2021-04-15 at 10 11 40 AM" src="https://user-images.githubusercontent.com/77813646/114947371-bdf73380-9de8-11eb-87de-50aca7b55b43.png">
 
 
-## List products page
+### List products page
 
 The List Products page shows all of the currently defined Products and their associated descriptions and email addresses:
 
@@ -57,24 +58,23 @@ The List Products page shows all of the currently defined Products and their ass
 
 
 
-# Deployment History
+## Deployment History
 
 [UHXchange](https://uhxmanoa.xyz/#/) is running on Digital Occean.
 
-## Milestone 1: Mockup Development and Authentication
+### Milestone 1: Mockup Development and Authentication
 
 Milestone 1 started on April 8, 2021 and completed April 15, 2021. 
 
-The goal of Milestone 1 is to combine all of the groups idea developed during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages working. In order to meet this goal, the pages will be developed as a Meteor app and FlowRouter will be implemented in order to get the routing to the other pages to work.
+The goal of Milestone 1 was to create collections and a mockup of pages in the system.
 
-Milestone 1 consisted of ten issues, and progress was managed via the [UHXchange GitHub Project M1](https://github.com/uhxchange/uhxchange/projects/1)
+Milestone 1 was managed using [UHXchange GitHub Project M1](https://github.com/uhxchange/uhxchange/projects/1)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 [UHXchange Network graph](https://github.com/uhxchange/uhxchange/network)
 
 Link to the source code:
 [https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
-
 
 
 ## Team
