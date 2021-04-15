@@ -19,29 +19,36 @@ This web application illustrates various technologies useful to ICS software eng
 
 # User Guide
 
-## Landing Homepage
+## Landing page
 
 This is a potential landing homepage where users can search up any potential item they're searching for, as well as showing a recent purchase feed and website information.
+<img width="800" alt="Screen Shot 2021-04-15 at 10 10 49 AM" src="https://user-images.githubusercontent.com/77813646/114947071-298cd100-9de8-11eb-98a2-f87902d14740.png">
 
-![](https://cdn.discordapp.com/attachments/828143559336263700/828866541692518410/unknown.png)
+## Sign in and sign up
 
-## Profile Page
+Click on the "Login" button in the upper right corner of the navbar, then select "Sign up" to go to the following page and register as a new user:
+<img width="800" alt="Screen Shot 2021-04-15 at 10 11 20 AM" src="https://user-images.githubusercontent.com/77813646/114947198-63f66e00-9de8-11eb-832d-9ade0482e866.png">
 
-<img width="800" alt="Screen Shot 2021-04-08 at 8 56 12 AM" src="https://user-images.githubusercontent.com/77813646/114081839-c2e84000-9848-11eb-8c8c-785c53d842f6.png">
+Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login:
+<img width="800" alt="Screen Shot 2021-04-15 at 10 10 58 AM" src="https://user-images.githubusercontent.com/77813646/114947193-622caa80-9de8-11eb-9bb7-253aa4020471.png">
+
+## List contacts page
+
+The List contacts page shows all the current registered profiles and their associated email addresses:
+<img width="800" alt="Screen Shot 2021-04-15 at 10 11 59 AM" src="https://user-images.githubusercontent.com/77813646/114947529-07478300-9de9-11eb-8aee-6d1149e2fec4.png">
 
 
-## Product Page
+## Add product Page
 
-Potential product page where users can see the product being put up for sell, trade, or both.
+Once you are logged in, you can define new products with the Add product page:
+<img width="800" alt="Screen Shot 2021-04-15 at 10 11 40 AM" src="https://user-images.githubusercontent.com/77813646/114947371-bdf73380-9de8-11eb-87de-50aca7b55b43.png">
 
-![](https://cdn.discordapp.com/attachments/828143559336263700/828881262499987477/unknown.png)
 
+## List products page
 
-## Search Page
+The List Products page shows all of the currently defined Products and their associated descriptions and email addresses:
 
-Search page allows the users to filter the products by their types.
-
-<img width="800" alt="filter" src="https://user-images.githubusercontent.com/77813646/114013243-09b34700-9803-11eb-93d8-8fd6ea24f9c1.png">
+<img width="800" alt="Screen Shot 2021-04-15 at 10 11 49 AM" src="https://user-images.githubusercontent.com/77813646/114947692-4aa1f180-9de9-11eb-82b2-cfbc8c82bd39.png">
 
 
 # Deployment History
@@ -53,12 +60,6 @@ Search page allows the users to filter the products by their types.
 Milestone 1 started on April 8, 2021 and completed April 15, 2021. 
 
 The goal of Milestone 1 is to combine all of the groups idea developed during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages working. In order to meet this goal, the pages will be developed as a Meteor app and FlowRouter will be implemented in order to get the routing to the other pages to work.
-
-Mockups for the following pages were implemented during M1:
-
-
-
-Milestone 1 was implemented as [UHXchange Github Milestone 1](https://github.com/uhxchange/uhxchange/milestones)
 
 Milestone 1 consisted of ten issues, and progress was managed via the [UHXchange GitHub Project M1](https://github.com/uhxchange/uhxchange/projects/1)
 
