@@ -1,5 +1,3 @@
-# Welcome to UHXchange!
-
 ## Table of contents
 
 * [Overview](#overview)
