@@ -57,9 +57,8 @@ The goal of Milestone 1 is to
 
 Mockups for the following pages were implemented during M1:
 
-<img width="220px" height="140px" src=""/>
-<img width="220px" height="140px" src=""/>
-<img width="220px" height="140px" src=""/>
+<img width="220px" height="140px" src="images/LandingPage.png"/><img width="220px" height="140px" src="images/SigninPage.png"/>
+<img width="220px" height="140px" src="images/UserHomePage.png"/>
 <img width="220px" height="140px" src=""/>
 <img width="220px" height="140px" src=""/>
 
