@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Deployment History](#deployment-history)
 
 # Welcome to UHXchange!
 
@@ -41,6 +42,10 @@ Search page allows the users to filter the products by their types.
 <img width="800" alt="filter" src="https://user-images.githubusercontent.com/77813646/114013243-09b34700-9803-11eb-93d8-8fd6ea24f9c1.png">
 
 
+# Deployment History
+
+[UHXchange](https://uhxmanoa.xyz/#/) is running on Digital Occean.
+
 ## Milestone 1: Mockup Development and Authentication
 
 Milestone 1 started on April 8, 2021 and completed April 15, 2021. 
@@ -60,11 +65,6 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Link to the source code:
 [https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
-
-
-# Deployment
-
-[UHXchange](https://uhxmanoa.xyz/#/) is running on Digital Occean.
 
 
 ## Team
