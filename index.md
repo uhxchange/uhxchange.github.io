@@ -1,8 +1,9 @@
-## Welcome to UHXchange!
+# Table of contents
 
 * [Overview](#overview)
+* [User Guide](#user-guide)
 
-## Overview
+# Welcome to UHXchange!
 
 UHXchange is a web application that provides users to buy and sell goods in the UH Manoa community. Users are able to search up items, "purchase" items, or exchange. Ultimately, it'll allow two users to interact with each other and decide either they want to exchange goods or purchase with currency. We'll allow users the option to either message the "seller" directly and decide from their. On the product page, it will show the user, the product the user is putting up to sell or trade, and a field that indicate if the seller wants to only sell, only trade, or open to both. The choice is theirs.
 
@@ -12,6 +13,8 @@ This web application illustrates various technologies useful to ICS software eng
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+
+# User Guide
 
 ## Landing Homepage
 
@@ -38,17 +41,6 @@ Search page allows the users to filter the products by their types.
 <img width="800" alt="filter" src="https://user-images.githubusercontent.com/77813646/114013243-09b34700-9803-11eb-93d8-8fd6ea24f9c1.png">
 
 
-## Team
-
-UHXchange is designed, implemented, and maintained by
-[Jiyeon Chun](https://chunjy.github.io/), [Chin Ting Liao](https://chintingliao.github.io/), [Hansen Cabanero](https://hanseca.github.io/), [Tam Nguyen](https://tamtn2.github.io/)
-
-
-## Deployment
-
-[UHXchange](https://uhxmanoa.xyz/#/) is running on Digital Occean.
-
-
 ## Milestone 1: Mockup Development and Authentication
 
 Milestone 1 started on April 8, 2021 and completed April 15, 2021. 
@@ -57,8 +49,7 @@ The goal of Milestone 1 is to combine all of the groups idea developed during ou
 
 Mockups for the following pages were implemented during M1:
 
-<img width="220px" height="140px" src="images/LandingPage.png"/><img width="220px" height="140px" src="images/SigninPage.png"/>
-<img width="220px" height="140px" src="images/UserHomePage.png"/>
+
 
 Milestone 1 was implemented as [UHXchange Github Milestone 1](https://github.com/uhxchange/uhxchange/milestones)
 
@@ -69,3 +60,14 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Link to the source code:
 [https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
+
+
+# Deployment
+
+[UHXchange](https://uhxmanoa.xyz/#/) is running on Digital Occean.
+
+
+## Team
+
+UHXchange is designed, implemented, and maintained by
+[Jiyeon Chun](https://chunjy.github.io/), [Chin Ting Liao](https://chintingliao.github.io/), [Hansen Cabanero](https://hanseca.github.io/), [Tam Nguyen](https://tamtn2.github.io/)
