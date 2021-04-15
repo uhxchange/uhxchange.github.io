@@ -49,5 +49,26 @@ UHXchange is designed, implemented, and maintained by
 [UHXchange](https://uhxmanoa.xyz/#/) is running on Digital Occean.
 
 
+## Milestone 1: Mockup Development and Authentication
+
+Milestone 1 started on April 8, 2021 and completed April 15, 2021. 
+
+The goal of Milestone 1 is to
+
+Mockups for the following pages were implemented during M1:
+
+<img width="220px" height="140px" src=""/>
+<img width="220px" height="140px" src=""/>
+<img width="220px" height="140px" src=""/>
+<img width="220px" height="140px" src=""/>
+<img width="220px" height="140px" src=""/>
+
+Milestone 1 was implemented as [UHXchange Github Milestone 1](https://github.com/uhxchange/uhxchange/milestones)
+
+Milestone 1 consisted of ten issues, and progress was managed via the [UHXchange GitHub Project M1](https://github.com/uhxchange/uhxchange/projects/1)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+[UHXchange Network graph](https://github.com/uhxchange/uhxchange/network)
+
 Link to the source code:
 [https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
