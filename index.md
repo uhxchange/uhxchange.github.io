@@ -1,4 +1,3 @@
-# Welcome to UHXchange!
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
