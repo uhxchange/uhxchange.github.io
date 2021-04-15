@@ -53,14 +53,12 @@ UHXchange is designed, implemented, and maintained by
 
 Milestone 1 started on April 8, 2021 and completed April 15, 2021. 
 
-The goal of Milestone 1 is to
+The goal of Milestone 1 is to combine all of the groups idea developed during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages working. In order to meet this goal, the pages will be developed as a Meteor app and FlowRouter will be implemented in order to get the routing to the other pages to work.
 
 Mockups for the following pages were implemented during M1:
 
 <img width="220px" height="140px" src="images/LandingPage.png"/><img width="220px" height="140px" src="images/SigninPage.png"/>
 <img width="220px" height="140px" src="images/UserHomePage.png"/>
-<img width="220px" height="140px" src=""/>
-<img width="220px" height="140px" src=""/>
 
 Milestone 1 was implemented as [UHXchange Github Milestone 1](https://github.com/uhxchange/uhxchange/milestones)
 
