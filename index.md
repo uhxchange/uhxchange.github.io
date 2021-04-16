@@ -1,3 +1,5 @@
+# Welcome to UHXchange!
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -75,6 +77,10 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Link to the source code:
 [https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
+
+### Milestone 2: Mockup Development
+
+Milestone 2 will be managed using [UHXchange GitHub Project M2](https://github.com/uhxchange/uhxchange/projects/3)
 
 
 ## Team
