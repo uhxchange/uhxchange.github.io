@@ -80,7 +80,11 @@ Link to the source code:
 
 ### Milestone 2: Mockup Development
 
-Milestone 2 will be managed using [UHXchange GitHub Project M2](https://github.com/uhxchange/uhxchange/projects/3)
+Milestone 2 started on April 16, 2021 and completed April 27, 2021. 
+
+The goal of Milestone 2 was to improve the functionality and quality of our application.
+
+Milestone 2 was managed using [UHXchange GitHub Project M2](https://github.com/uhxchange/uhxchange/projects/3)
 
 
 ## Team
