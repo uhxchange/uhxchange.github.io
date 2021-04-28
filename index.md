@@ -4,6 +4,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Deployment History](#deployment-history)
 * [Team](#team)
 
@@ -59,6 +60,75 @@ The List Products page shows all of the currently defined Products and their ass
 <img width="800" alt="Screen Shot 2021-04-15 at 10 11 49 AM" src="https://user-images.githubusercontent.com/77813646/114947692-4aa1f180-9de9-11eb-82b2-cfbc8c82bd39.png">
 
 
+## Developer Guide
+
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [UHXchange application github page](https://github.com/uhxchange/uhxchange), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the uhxchange/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Application Design
+
+UHXchange is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/).
+
+## Initialization
+
+The [config](https://github.com/uhxchange/uhxchange/tree/master/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/uhxchange/uhxchange/blob/master/config/settings.development.json).
+
+This file contains default definitions for Contacts and Products and the relationships between them.
+
+The settings.development.json file contains a field called "loadAssetsFile". It is set to false, but if you change it to true, then the data in the file app/private/data.json will also be loaded.  The code to do this illustrates how to initialize a system when the initial data exceeds the size limitations for the settings file.
+
+### Quality Assurance
+
+#### ESLint
+
+UHXchange includes a [.eslintrc](https://github.com/uhxchange/uhxchange/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+
+```
+meteor npm run lint
+```
+
+Here is sample output indicating that no ESLint errors were detected:
+
+```
+$ meteor npm run lint
+
+> bowfolios@ lint /Users/philipjohnson/github/uhxchange/uhxchange/app
+> eslint --quiet --ext .jsx --ext .js ./imports ./tests
+
+$
+```
+
+ESLint should run without generating any errors.
+
+It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
+
+## From mockup to production
+
+UHXchange is meant to illustrate the use of Meteor for developing an initial proof-of-concept prototype.  For a production application, several additional security-related changes must be implemented:
+
+* Use of email-based password specification for users, and/or use of an alternative authentication mechanism.
+* Use of https so that passwords are sent in encrypted format.
+* Removal of the insecure package, and the addition of Meteor Methods to replace client-side DB updates.
+
 
 ## Deployment History
 
@@ -80,36 +150,6 @@ The goal of Milestone 2 was to improve the functionality and quality of our appl
 
 Milestone 2 was managed using [UHXchange GitHub Project M2](https://github.com/uhxchange/uhxchange/projects/3)
 
-LandingPage:
-
-<img width="779px" height="374px" src="images/LandingPage.png"/>
-
-ListSignedInPage:
-
-<img width="779px" height="374px" src="images/listSignedInPage.png"/>
-
-AddProductPage:
-
-<img width="779px" height="374px" src="images/addProductPage.png"/>
-
-ListProductsPage:
-
-<img width="779px" height="374px" src="images/listProductsPage.png"/>
-
-ReviewPage:
-
-<img width="779px" height="374px" src="images/ReviewPage.png"/>
-
-
-ProductPage:
-
-<img width="779px" height="374px" src="images/ProductPage.png"/>
-
-ProfilePage:
-
-<img width="779px" height="374px" src="images/ProfilePage.png"/>
-
-
 ### Milestone 3: Mockup Development
 
 Milestone 3 started on April 28, 2021.
@@ -117,6 +157,7 @@ Milestone 3 started on April 28, 2021.
 The goal of Milestone 3 is to significantly improve the functionality from Milestone 2 and to implement testing before finalizing the project.
 
 Milestone 3 will be managed using [UHXchange GitHub Project M3](https://github.com/uhxchange/uhxchange/projects/4)
+
 
 ## Team
 
