@@ -82,18 +82,25 @@ Milestone 2 was managed using [UHXchange GitHub Project M2](https://github.com/u
 
 LandingPage:
 <img width="779px" height="374px" src="images/LandingPage.png"/>
+
 ListSignedInPage:
 <img width="779px" height="374px" src="images/listSignedInPage.png"/>
+
 ListProductsPage:
 <img width="779px" height="374px" src="images/listProductsPage.png"/>
+
 ReviewPage:
 <img width="779px" height="374px" src="images/ReviewPage.png"/>
+
 AddProductPage:
 <img width="779px" height="374px" src="images/addProductPage.png"/>
+
 ProductPage:
 <img width="779px" height="374px" src="images/ProductPage.png"/>
+
 ProfilePage:
 <img width="779px" height="374px" src="images/ProfilePage.png"/>
+
 
 ### Milestone 3: Mockup Development
 
