@@ -88,9 +88,9 @@ Milestone 2 was managed using [UHXchange GitHub Project M2](https://github.com/u
 
 <img width="779px" height="374px" src="images/LandingPage.png"/>
 <img width="779px" height="374px" src="images/listSignedInPage.png"/>
-<img width="440px" height="384px" src="images/listProductsPage.png"/>
-<img width="440px" height="384px" src="images/ReviewPage.png"/>
-<img width="440px" height="384px" src="images/addProductPage.png"/>
+<img width="779px" height="374px" src="images/listProductsPage.png"/>
+<img width="779px" height="374px" src="images/ReviewPage.png"/>
+<img width="779px" height="374px" src="images/addProductPage.png"/>
 
 
 ## Team
