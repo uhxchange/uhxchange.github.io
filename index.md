@@ -41,10 +41,15 @@ Click on the "Login" button in the upper right corner of the navbar, then select
 
 ### List contacts page
 
-The List contacts page shows all the current registered profiles and their associated email addresses:
+The list contacts page shows all the current registered profiles and their associated email addresses:
 
 <img width="800" src="images/listcontacts.png">
 
+### Profile page
+
+The profile page allows the user to edit the profile and products information:
+
+<img width="800" src="images/profile.png">
 
 ### Add product Page
 
@@ -52,12 +57,23 @@ Once you are logged in, you can define new products with the Add product page:
 
 <img width="800" src="images/addproduct.png">
 
-
 ### List products page
 
 The List Products page shows all of the currently defined Products and their associated descriptions and email addresses:
 
 <img width="800" src="images/listproducts.png">
+
+### Product page
+
+Once the user clicks on a specific product, it will lead to a product page showing the seller information:
+
+<img width="800" src="images/product.png">
+
+### Review page
+
+The review page allows the UH community to add a review on the webiste:
+
+<img width="800" src="images/review.png">
 
 
 ## Developer Guide
