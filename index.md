@@ -88,6 +88,10 @@ ListSignedInPage:
 
 <img width="779px" height="374px" src="images/listSignedInPage.png"/>
 
+AddProductPage:
+
+<img width="779px" height="374px" src="images/addProductPage.png"/>
+
 ListProductsPage:
 
 <img width="779px" height="374px" src="images/listProductsPage.png"/>
@@ -96,9 +100,6 @@ ReviewPage:
 
 <img width="779px" height="374px" src="images/ReviewPage.png"/>
 
-AddProductPage:
-
-<img width="779px" height="374px" src="images/addProductPage.png"/>
 
 ProductPage:
 
