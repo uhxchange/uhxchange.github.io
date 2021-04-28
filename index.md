@@ -27,37 +27,37 @@ This web application illustrates various technologies useful to ICS software eng
 
 This is a potential landing homepage where users can search up any potential item they're searching for, as well as showing a recent purchase feed and website information.
 
-<img width="800" alt="Screen Shot 2021-04-15 at 10 10 49 AM" src="https://user-images.githubusercontent.com/77813646/114947071-298cd100-9de8-11eb-98a2-f87902d14740.png">
+<img width="800" src="images/landing.png">
 
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign up" to go to the following page and register as a new user:
 
-<img width="800" alt="Screen Shot 2021-04-15 at 10 11 20 AM" src="https://user-images.githubusercontent.com/77813646/114947198-63f66e00-9de8-11eb-832d-9ade0482e866.png">
+<img width="800" src="images/signup.png">
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login:
 
-<img width="800" alt="Screen Shot 2021-04-15 at 10 10 58 AM" src="https://user-images.githubusercontent.com/77813646/114947193-622caa80-9de8-11eb-9bb7-253aa4020471.png">
+<img width="800" src="images/signin.png">
 
 ### List contacts page
 
 The List contacts page shows all the current registered profiles and their associated email addresses:
 
-<img width="800" alt="Screen Shot 2021-04-15 at 10 11 59 AM" src="https://user-images.githubusercontent.com/77813646/114947529-07478300-9de9-11eb-8aee-6d1149e2fec4.png">
+<img width="800" src="images/listcontacts.png">
 
 
 ### Add product Page
 
 Once you are logged in, you can define new products with the Add product page:
 
-<img width="800" alt="Screen Shot 2021-04-15 at 10 11 40 AM" src="https://user-images.githubusercontent.com/77813646/114947371-bdf73380-9de8-11eb-87de-50aca7b55b43.png">
+<img width="800" src="images/addproduct.png">
 
 
 ### List products page
 
 The List Products page shows all of the currently defined Products and their associated descriptions and email addresses:
 
-<img width="800" alt="Screen Shot 2021-04-15 at 10 11 49 AM" src="https://user-images.githubusercontent.com/77813646/114947692-4aa1f180-9de9-11eb-82b2-cfbc8c82bd39.png">
+<img width="800" src="images/listproducts.png">
 
 
 ## Developer Guide
