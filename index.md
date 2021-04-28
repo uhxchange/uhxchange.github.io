@@ -86,8 +86,8 @@ The goal of Milestone 2 was to improve the functionality and quality of our appl
 
 Milestone 2 was managed using [UHXchange GitHub Project M2](https://github.com/uhxchange/uhxchange/projects/3)
 
-<img width="512px" height="384px" src="images/LandingPage.png"/>
-<img width="440px" height="384px" src="images/listSignedInPage.png"/>
+<img width="779px" height="374px" src="images/LandingPage.png"/>
+<img width="779px" height="374px" src="images/listSignedInPage.png"/>
 <img width="440px" height="384px" src="images/listProductsPage.png"/>
 <img width="440px" height="384px" src="images/ReviewPage.png"/>
 <img width="440px" height="384px" src="images/addProductPage.png"/>
