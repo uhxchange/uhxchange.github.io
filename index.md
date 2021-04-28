@@ -72,12 +72,6 @@ The goal of Milestone 1 was to create collections and a mockup of pages in the s
 
 Milestone 1 was managed using [UHXchange GitHub Project M1](https://github.com/uhxchange/uhxchange/projects/1)
 
-Each issue was implemented in its own branch, and merged into master when completed:
-[UHXchange Network graph](https://github.com/uhxchange/uhxchange/network)
-
-Link to the source code:
-[https://github.com/uhxchange/uhxchange](https://github.com/uhxchange/uhxchange)
-
 ### Milestone 2: Mockup Development
 
 Milestone 2 started on April 16, 2021 and completed April 27, 2021. 
@@ -86,13 +80,13 @@ The goal of Milestone 2 was to improve the functionality and quality of our appl
 
 Milestone 2 was managed using [UHXchange GitHub Project M2](https://github.com/uhxchange/uhxchange/projects/3)
 
-<img width="779px" height="374px" src="images/LandingPage.png"/>
-<img width="779px" height="374px" src="images/listSignedInPage.png"/>
-<img width="779px" height="374px" src="images/listProductsPage.png"/>
-<img width="779px" height="374px" src="images/ReviewPage.png"/>
-<img width="779px" height="374px" src="images/addProductPage.png"/>
-<img width="779px" height="374px" src="images/ProductPage.png"/>
+### Milestone 3: Mockup Development
 
+Milestone 3 started on April 28, 2021.
+
+The goal of Milestone 3 is to significantly improve the functionality from Milestone 2 and to implement testing before finalizing the project.
+
+Milestone 3 will be managed using [UHXchange GitHub Project M3](https://github.com/uhxchange/uhxchange/projects/4)
 
 ## Team
 
