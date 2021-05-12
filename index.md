@@ -30,7 +30,7 @@ This is a potential landing homepage where users can search up any potential ite
 <img width="800" src="images/landing1.png">
 <img width="800" src="images/landing2.png">
 
-### Sign in and sign up
+### Sign in, sign up, sign out
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign up" to go to the following page and register as a new user:
 
@@ -40,11 +40,15 @@ Click on the "Login" button in the upper right corner of the navbar, then select
 
 <img width="800" src="images/signin.png">
 
-### List contacts page
+Click on the user email in the upper right corner of the navbar, then select "Sign out" to go to the following page:
 
-The list contacts page shows all the current registered profiles and their associated email addresses:
+<img width="800" src="images/signout.png">
 
-<img width="800" src="images/listcontacts.png">
+### Community page
+
+The Community page shows all the current registered users and their associated email addresses:
+
+<img width="800" src="images/community.png">
 
 ### Profile page
 
@@ -52,27 +56,28 @@ The profile page allows the user to edit the profile and products information:
 
 <img width="800" src="images/profile.png">
 
-### Add product Page
+### Sell page
 
-Once you are logged in, you can define new products with the Add product page:
+The user can create a listing on the Sell page. The form asks to fill out product name, image, description, and sale type:
 
-<img width="800" src="images/addproduct.png">
+<img width="800" src="images/sell.png">
 
-### List products page
+### Shop page
 
-The List Products page shows all of the currently defined Products and their associated descriptions and email addresses:
+The Shop page shows all of the currently defined items and their associated descriptions:
 
-<img width="800" src="images/listproducts.png">
+<img width="800" src="images/shop.png">
 
 ### Product page
 
-Once the user clicks on a specific product, it will lead to a product page showing the seller information:
+Once the user clicks on a specific item, it leads to a product page showing the seller information. The label shows whether the user is selling or trading the item. Students can arrange the meet up through email:
 
-<img width="800" src="images/product.png">
+<img width="800" src="images/product1.png">
+<img width="800" src="images/product2.png">
 
 ### Review page
 
-The review page allows the UH community to add a review on the webiste:
+The review page allows the UHM students to add a review on the webiste:
 
 <img width="800" src="images/review.png">
 
