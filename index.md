@@ -84,6 +84,13 @@ When the user clicks on a specific profile on the community page, it lists all t
 
 <img width="800" src="images/profile.png">
 
+### Review page
+
+The review page allows the registered students to add a review on the webiste:
+
+<img width="800" src="images/review.png">
+
+
 ### My Profile page
 
 The My Profile page allows the user to edit the profile and edit/delete the products information:
@@ -103,11 +110,12 @@ On My Profile page, the user can click on the edit button on the product card to
 
 <img width="800" src="images/editproduct.png">
 
-### Review page
+### Admin Role
 
-The review page allows the UHM students to add a review on the webiste:
+Admin can edit or remove any items from the Shop page and edit inappropriate profile information on the Community page:
 
-<img width="800" src="images/review.png">
+<img width="800" src="images/admin1.png">
+<img width="800" src="images/admin2.png">
 
 
 ## Developer Guide
@@ -207,6 +215,7 @@ Milestone 3 started on April 28, 2021 and completed May 12, 2021.
 The goal of Milestone 3 was to significantly improve the functionality from Milestone 2 and to implement testing before finalizing the project.
 
 Milestone 3 was managed using [UHXchange GitHub Project M3](https://github.com/uhxchange/uhxchange/projects/4)
+
 
 ## Community Feedback
 
