@@ -26,7 +26,7 @@ This web application illustrates various technologies useful to ICS software eng
 
 ### Landing page
 
-This is a potential landing homepage where users can search up any potential item they're searching for, as well as showing a recent purchase feed and website information.
+Landing page has a brief description of the website and sign in and sign up buttons:
 
 <img width="800" src="images/landing1.png">
 <img width="800" src="images/landing2.png">
