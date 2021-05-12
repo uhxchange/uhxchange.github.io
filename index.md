@@ -56,7 +56,7 @@ The Shop page shows all of the currently defined items and their associated desc
 
 Once the user clicks on a specific item, it leads to a product page showing the seller information. The label shows whether the user is selling or trading the item. Students can arrange the meet up through email:
 
-<img width="800" src="images/product1.png">
+<img width="800" src="images/product.png">
 <img width="800" src="images/product2.png">
 
 ### Search bar
