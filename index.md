@@ -61,7 +61,7 @@ Once the user clicks on a specific item, it leads to a product page showing the 
 
 ### Search bar
 
-The user can utilize the search bar located in the left upper corner of the Shop page:
+The user can utilize the search bar located in the left upper corner of the Shop page. It returns all the items related to the keyword:
 
 <img width="800" src="images/search.png">
 
