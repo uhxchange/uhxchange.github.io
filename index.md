@@ -6,6 +6,7 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Deployment History](#deployment-history)
+* [Community Feedback](#community-feedback)
 * [Team](#team)
 
 
@@ -44,23 +45,6 @@ Click on the user email in the upper right corner of the navbar, then select "Si
 
 <img width="800" src="images/signout.png">
 
-### Community page
-
-The Community page shows all the current registered users and their associated email addresses:
-
-<img width="800" src="images/community.png">
-
-### Profile page
-
-The profile page allows the user to edit the profile and products information:
-
-<img width="800" src="images/profile.png">
-
-### Sell page
-
-The user can create a listing on the Sell page. The form asks to fill out product name, image, description, and sale type:
-
-<img width="800" src="images/sell.png">
 
 ### Shop page
 
@@ -74,6 +58,37 @@ Once the user clicks on a specific item, it leads to a product page showing the 
 
 <img width="800" src="images/product1.png">
 <img width="800" src="images/product2.png">
+
+### Search bar
+
+The user can utilize the search bar located in the left upper corner of the Shop page:
+
+<img width="800" src="images/search.png">
+
+### Sell page
+
+The user can create a listing on the Sell page. The form asks to fill out product name, image, description, and sale type:
+
+<img width="800" src="images/sell.png">
+
+### Community page
+
+The Community page shows all the current registered users and their associated email addresses:
+
+<img width="800" src="images/community.png">
+
+### Profile page
+
+When the user clicks on a specific profile on the community page, it lists all the products the user is selling:
+
+<img width="800" src="images/profile.png">
+
+### My Profile page
+
+The My Profile page allows the user to edit the profile and edit/delete the products information:
+
+<img width="800" src="images/myprofile1.png">
+<img width="800" src="images/myprofile2.png">
 
 ### Review page
 
@@ -174,11 +189,13 @@ Milestone 2 was managed using [UHXchange GitHub Project M2](https://github.com/u
 
 ### Milestone 3: Mockup Development
 
-Milestone 3 started on April 28, 2021.
+Milestone 3 started on April 28, 2021 and completed May 12, 2021.
 
-The goal of Milestone 3 is to significantly improve the functionality from Milestone 2 and to implement testing before finalizing the project.
+The goal of Milestone 3 was to significantly improve the functionality from Milestone 2 and to implement testing before finalizing the project.
 
-Milestone 3 will be managed using [UHXchange GitHub Project M3](https://github.com/uhxchange/uhxchange/projects/4)
+Milestone 3 was managed using [UHXchange GitHub Project M3](https://github.com/uhxchange/uhxchange/projects/4)
+
+## Community Feedback
 
 
 ## Team
