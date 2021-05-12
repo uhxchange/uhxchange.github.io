@@ -91,6 +91,18 @@ The My Profile page allows the user to edit the profile and edit/delete the prod
 <img width="800" src="images/myprofile1.png">
 <img width="800" src="images/myprofile2.png">
 
+### Edit Profile
+
+On My Profile page, the user can click on the edit button located under the profile image to edit profile:
+
+<img width="800" src="images/editcontact.png">
+
+### Edit Product
+
+On My Profile page, the user can click on the edit button on the product card to edit product information:
+
+<img width="800" src="images/editproduct.png">
+
 ### Review page
 
 The review page allows the UHM students to add a review on the webiste:
