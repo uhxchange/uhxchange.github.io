@@ -45,7 +45,6 @@ Click on the user email in the upper right corner of the navbar, then select "Si
 
 <img width="800" src="images/signout.png">
 
-
 ### Shop page
 
 The Shop page shows all of the currently defined items and their associated descriptions:
@@ -71,7 +70,6 @@ The user can create a listing on the Sell page. The form asks to fill out produc
 
 <img width="800" src="images/sell.png">
 
-
 ### Community page
 
 The Community page shows all the current registered users and their associated email addresses:
@@ -89,7 +87,6 @@ When the user clicks on a specific profile on the community page, it lists all t
 The review page allows the registered students to add a review on the webiste:
 
 <img width="800" src="images/review.png">
-
 
 ### My Profile page
 
@@ -219,6 +216,8 @@ Milestone 3 was managed using [UHXchange GitHub Project M3](https://github.com/u
 
 ## Community Feedback
 
+Braden Betz: "This website is a good alternative to Craiglist and in some cases, better as it provides simple layouts"
+William Dunn: "I can imagine myself using this website as it does all I need when it comes to finding something on the flea market"
 
 ## Team
 
