@@ -216,11 +216,9 @@ Milestone 3 was managed using [UHXchange GitHub Project M3](https://github.com/u
 
 ## Community Feedback
 
->> This website is a good alternative to Craiglist and in some cases, better as it provides simple layouts
-- Braden Betz
-
-> I can imagine myself using this website as it does all I need when it comes to finding something on the flea market
-- William Dunn
+- Braden Betz- "This website is a good alternative to Craiglist and in some cases, better as it provides simple layouts"
+- William Dunn- "I can imagine myself using this website as it does all I need when it comes to finding something on the flea market"
+- Anonymous User- "I like how clean the aesthetic of the general website is. The home page is really refreshing and welcoming. I like that clicking on the product allows the user to see who is associated to it and if that person is trading or selling. I also like that the search bar allows you to see a prelude of the item description."
 
 
 ## Team
